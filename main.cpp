@@ -6,6 +6,7 @@
 #include <string.h>
 #include <math.h>
 #include "C:\Users\MSI\Desktop\final\Raylib-CPP-Starter-Template-for-VSCODE-V2-main\bg2.h"
+// header file can be found in the zip file
 
 #define NUM_COMPANIES 5
 #define INITIAL_SHARES 0
